@@ -14,6 +14,7 @@ This innovation ensures reliable peer-to-peer communication, even when infrastru
  Features:
 
 1-Works Without Internet or SIM: Enables messaging in areas with no connectivity
+
 2-Long-Range Communication: Up to 5 km range using LoRa technology
 3-USB-OTG Based Phone Connectivity: Easy plug-and-play setup on Android
 4-Peer-to-Peer Chat Interface: Send and receive messages between devices
