@@ -30,21 +30,21 @@ Technology Stack:
 
 1- Hardware:
 
-Arduino Nano – Controls the communication logic
+      Arduino Nano – Controls the communication logic
 
-Reyax RYLR998 LoRa Modules – Enables long-range wireless messaging
+      Reyax RYLR998 LoRa Modules – Enables long-range wireless messaging
 
-Resistors (4.7kΩ and 10kΩ) – Used for voltage regulation and safety
+      Resistors (4.7kΩ and 10kΩ) – Used for voltage regulation and safety
 
-OTG Cable – Connects Arduino to Android phone
+      OTG Cable – Connects Arduino to Android phone
 
-3D Printed Enclosure – Compact protective casing
+      3D Printed Enclosure – Compact protective casing
 
 2- Software:
 
-Arduino IDE – For coding and uploading logic to microcontroller
+      Arduino IDE – For coding and uploading logic to microcontroller
 
-Mobile USB Serial Library – Enables OTG-based communication
+      Mobile USB Serial Library – Enables OTG-based communication
 
 
 
